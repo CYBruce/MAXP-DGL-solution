@@ -1,4 +1,4 @@
-# MAXP-DGL-top3-solutionMAXP竞赛——DGL图数据模型
+# MAXP-DGL-top3-solution([MAXP竞赛DGL图数据模型](https://biendata.xyz/competition/maxp_dgl/))
 The solution code for MAXP DGL context (to be finished)
 
 requirements：
