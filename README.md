@@ -1,4 +1,4 @@
-# MAXP-DGL-top3-solution([MAXP竞赛DGL图数据模型](https://biendata.xyz/competition/maxp_dgl/))
+# MAXP-DGL-solution([MAXP竞赛DGL图数据模型](https://biendata.xyz/competition/maxp_dgl/))
 依赖包：
 ------
 - dgl==0.7.1
