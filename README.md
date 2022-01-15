@@ -21,19 +21,13 @@
 2. 训练GNN模型
 
 ```bash
-python get_n2v.py    # 获取node2vec embedding
-# 运行unimp
-python unimp_train.py --data_path ../final_data --gnn_model graphattn --hidden_dim 64 --n_layers 2 --fanout 20,20 --batch_size 4000 --GPU 0 --out_path ./results --epoch 40 --savename unimp_graphattn
+python get_n2v.py
+python unimp_train.py
 ```
-
-## More than baseline
-
-- 构建节点的embedding特征
-- 模型多折训练融合
 
 
 ## 参考资料
 
-1. Huang, Qian, et al. "Combining label propagation and simple models out-performs graph neural networks." *arXiv preprint arXiv:2010.13993* (2020).
-2. Shi, Yunsheng, et al. "Masked label prediction: Unified message passing model for semi-supervised classification." *arXiv preprint arXiv:2009.03509* (2020).
+1. Shi, Yunsheng, et al. "Masked label prediction: Unified message passing model for semi-supervised classification." *arXiv preprint arXiv:2009.03509* (2020).
+2. Wang, Yangkun, et al. "Bag of tricks for node classification with graph neural networks." *arXiv preprint arXiv:2103.13355* 2.3 (2021).  
 

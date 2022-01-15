@@ -5,3 +5,4 @@ finals/results/output.npy
 finals/run.sh
 finals/unimp_train.py
 复现结果步骤.md
+codes/results/output.npy
