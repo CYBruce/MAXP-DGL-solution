@@ -21,8 +21,8 @@
 2. 训练GNN模型
 
 ```bash
-python get_n2v.py
-python unimp_train.py
+python n2v.py
+python train.py
 ```
 
 
